@@ -19,9 +19,8 @@ project/
 │
 ├── data/
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
+
 
 
 ## Datasets Used
