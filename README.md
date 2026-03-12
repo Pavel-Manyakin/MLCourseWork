@@ -9,7 +9,7 @@ This project contains implementations of several machine learning algorithms app
 The goal of this project is to compare different ML approaches and evaluate their performance on well-known datasets.
 
 ## Project Structure
-
+```
 project/
 │
 ├── notebooks/
@@ -20,7 +20,7 @@ project/
 ├── data/
 │
 └── README.md
-
+```
 
 
 ## Datasets Used
